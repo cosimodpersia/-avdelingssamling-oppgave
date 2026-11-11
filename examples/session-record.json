@@ -1,0 +1,11 @@
+{
+  "harness": "replace-me",
+  "harness_version": "replace-me",
+  "model": "replace-me",
+  "started_at": "2026-11-09T13:00:00+01:00",
+  "time_budget_minutes": 120,
+  "tools": [],
+  "permissions": [],
+  "commands": [],
+  "limitations": []
+}

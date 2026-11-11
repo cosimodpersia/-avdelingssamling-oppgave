@@ -1,0 +1,6 @@
+{"timestamp": "2026-11-09T08:30:00Z", "component": "archive-api", "level": "INFO", "message": "Ingen utrulling eller konfigurasjonsendring i arkivtjenesten siste døgn"}
+{"timestamp": "2026-11-09T08:58:00Z", "component": "document-flow", "level": "WARN", "message": "Én ubrukt tilkobling lukket etter inaktivitet; ny tilkobling etablert"}
+{"timestamp": "2026-11-09T09:00:00Z", "component": "deployment", "level": "INFO", "release": "2026.11.0", "message": "Ny versjon av Dokumentflyt satt i drift; effektiv konfigurasjon eksportert til konfigurasjon/runtime.json"}
+{"timestamp": "2026-11-09T09:01:00Z", "component": "certificate-monitor", "level": "WARN", "message": "Sertifikatet utløper om 30 dager; dagens TLS-kontroll var vellykket"}
+{"timestamp": "2026-11-09T09:04:00Z", "component": "monitoring", "level": "ERROR", "message": "Alarm: økt andel HTTP 504 fra Dokumentflyt"}
+{"timestamp": "2026-11-09T09:06:00Z", "component": "archive-api", "level": "INFO", "message": "Kontroll: CPU 31 prosent, ingen køvekst, ingen 5xx i observasjonsvinduet"}

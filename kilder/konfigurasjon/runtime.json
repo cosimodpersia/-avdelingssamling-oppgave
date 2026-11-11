@@ -1,0 +1,9 @@
+{
+  "service": "document-flow",
+  "release": "2026.11.0",
+  "dependency": {
+    "timeout_ms": 250,
+    "max_attempts": 3,
+    "retry_backoff_ms": 100
+  }
+}

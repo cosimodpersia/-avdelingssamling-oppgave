@@ -1,0 +1,165 @@
+{
+  "description": "Syntetiske behandlingstider fra arkivtjenesten. Samme varighet brukes ved hvert forsøk for en forespørsel.",
+  "requests": [
+    {
+      "request_id": "req-001",
+      "upstream_latency_ms": 120
+    },
+    {
+      "request_id": "req-002",
+      "upstream_latency_ms": 180
+    },
+    {
+      "request_id": "req-003",
+      "upstream_latency_ms": 220
+    },
+    {
+      "request_id": "req-004",
+      "upstream_latency_ms": 240
+    },
+    {
+      "request_id": "req-005",
+      "upstream_latency_ms": 310
+    },
+    {
+      "request_id": "req-006",
+      "upstream_latency_ms": 340
+    },
+    {
+      "request_id": "req-007",
+      "upstream_latency_ms": 380
+    },
+    {
+      "request_id": "req-008",
+      "upstream_latency_ms": 420
+    },
+    {
+      "request_id": "req-009",
+      "upstream_latency_ms": 460
+    },
+    {
+      "request_id": "req-010",
+      "upstream_latency_ms": 500
+    },
+    {
+      "request_id": "req-011",
+      "upstream_latency_ms": 520
+    },
+    {
+      "request_id": "req-012",
+      "upstream_latency_ms": 540
+    },
+    {
+      "request_id": "req-013",
+      "upstream_latency_ms": 560
+    },
+    {
+      "request_id": "req-014",
+      "upstream_latency_ms": 580
+    },
+    {
+      "request_id": "req-015",
+      "upstream_latency_ms": 600
+    },
+    {
+      "request_id": "req-016",
+      "upstream_latency_ms": 620
+    },
+    {
+      "request_id": "req-017",
+      "upstream_latency_ms": 640
+    },
+    {
+      "request_id": "req-018",
+      "upstream_latency_ms": 650
+    },
+    {
+      "request_id": "req-019",
+      "upstream_latency_ms": 660
+    },
+    {
+      "request_id": "req-020",
+      "upstream_latency_ms": 670
+    },
+    {
+      "request_id": "req-021",
+      "upstream_latency_ms": 680
+    },
+    {
+      "request_id": "req-022",
+      "upstream_latency_ms": 690
+    },
+    {
+      "request_id": "req-023",
+      "upstream_latency_ms": 700
+    },
+    {
+      "request_id": "req-024",
+      "upstream_latency_ms": 710
+    },
+    {
+      "request_id": "req-025",
+      "upstream_latency_ms": 720
+    },
+    {
+      "request_id": "req-026",
+      "upstream_latency_ms": 730
+    },
+    {
+      "request_id": "req-027",
+      "upstream_latency_ms": 740
+    },
+    {
+      "request_id": "req-028",
+      "upstream_latency_ms": 750
+    },
+    {
+      "request_id": "req-029",
+      "upstream_latency_ms": 760
+    },
+    {
+      "request_id": "req-030",
+      "upstream_latency_ms": 770
+    },
+    {
+      "request_id": "req-031",
+      "upstream_latency_ms": 780
+    },
+    {
+      "request_id": "req-032",
+      "upstream_latency_ms": 790
+    },
+    {
+      "request_id": "req-033",
+      "upstream_latency_ms": 800
+    },
+    {
+      "request_id": "req-034",
+      "upstream_latency_ms": 810
+    },
+    {
+      "request_id": "req-035",
+      "upstream_latency_ms": 820
+    },
+    {
+      "request_id": "req-036",
+      "upstream_latency_ms": 830
+    },
+    {
+      "request_id": "req-037",
+      "upstream_latency_ms": 850
+    },
+    {
+      "request_id": "req-038",
+      "upstream_latency_ms": 870
+    },
+    {
+      "request_id": "req-039",
+      "upstream_latency_ms": 890
+    },
+    {
+      "request_id": "req-040",
+      "upstream_latency_ms": 920
+    }
+  ]
+}
