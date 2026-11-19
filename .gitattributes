@@ -1,0 +1,2 @@
+# Evidence checksums are byte-for-byte. Keep text fixtures LF in every checkout.
+kilder/** text=auto eol=lf

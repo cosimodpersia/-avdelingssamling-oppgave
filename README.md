@@ -117,14 +117,6 @@ tilgangstokener eller ukritisk eksport av agenthistorikk.
 for eksempel som vedlegg eller gjennomgåtte kopier under gruppens leveransemappe.
 Ikke bruk `git add -f` på en hel mappe som kan inneholde hemmeligheter.
 
-## Tidsplan mandag
-
-- 13:00 til 13:20: Velg oppgave, les grunnlaget og få baseline til å kjøre.
-- 13:20 til 14:30: Bygg første versjon av arbeidsmåten.
-- 14:30 til 15:20: Undersøk hendelsen, prøv endring og kontroller resultatet.
-- 15:20 til 15:30: Ferdigstill rapport og kort demonstrasjon.
-- 15:30 til 16:00: Frivillig deling. Vis også mislykkede forsøk og begrensninger.
-
 ## Modeller, nettverk og isolasjon
 
 Agenttilgang avtales med arrangøren. Bruk godkjent modell og klient, og avklar kostnad
